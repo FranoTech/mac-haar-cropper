@@ -1,0 +1,1 @@
+The user only has to drag and drop a folder, and then to annotate each image in order to create the final .txt file that contains the useful data for the openCV Haar Trainer.
